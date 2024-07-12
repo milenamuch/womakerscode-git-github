@@ -8,3 +8,5 @@
 
 * O comando git add . adiciona todos os arquivos para a esteira de commit
 * Já o comando git add caminho/do/arquivo adiciona o arquivo em específico
+
+### git commit
