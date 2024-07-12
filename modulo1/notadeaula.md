@@ -1,8 +1,8 @@
 
 # Notas de aula do módulo 1 do curso de Git e Github
 
-### Nota 1
+### Instação do git
 
-### Nota 2
+### Configuração do Git
 
 ### Nota 3
