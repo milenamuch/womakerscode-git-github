@@ -10,3 +10,12 @@ git branch
 
 ### Ir para outra branch
 git checkout nome-da-branch
+
+### Criar pull request
+git pull
+
+### Mergear a branch criada
+git merge nome-da-branch
+
+### Realizar o push da branch
+git push
