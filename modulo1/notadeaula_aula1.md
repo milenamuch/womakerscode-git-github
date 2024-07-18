@@ -6,3 +6,5 @@
 ### Configuração do Git
 
 ### Nota 3
+Adicionando notas para teste
+
